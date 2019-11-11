@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@GetMapping("/")
 	public String hello() {
-		return "Hello 12124r344y56hrb reger!";
+		return "Hello, configured webhooks...testing if its working!";
 	}
 
 }
